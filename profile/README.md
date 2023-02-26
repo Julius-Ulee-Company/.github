@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **We are Stupid hehe.**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesian+Developer;Open-Source+Developer;I+hope+you+enjoy.)](https://git.io/typing-svg)
 
 - 💼 Front End Devloper
 - ⚡ Competitive Player
