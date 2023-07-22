@@ -4,13 +4,13 @@
   </a>
 </div>
 
-<h1 align="center">🐠 Coral Reef CR</h1>
-<h3 align="center">👋Who we are? We are young people who will build a technology that is useful for others and make discoveries that are no less great.</h3>
+<h1 align="center">🪙 Julius Ulee Company</h1>
+<h3 align="center">👋Focusing on technology and curency makes this company an educational and respected company.</h3>
 <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/716751195603206166/775639764610711592/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 🔭 We currently working on [Anything](https://github.com/Coral-Reef-CR)
 
-- 👨‍💻 All of my projects are available at [🐠Coral-Reef-CR](https://github.com/Coral-Reef-CR)
+- 👨‍💻 All of my projects are available at [🪙 Julius Ulee Company](https://github.com/Julius-Ulee-Company)
 
 - 💬 Ask me about **JavaScript, HTML/CSS, PHP, and Python**
 
